@@ -68,7 +68,7 @@ function App() {
       <div className="content ">
         <div className="card">
           <h4 className="title">
-            Log in with Google and then request to delete all your "ecommerce"
+            Log in with Google and then request to delete all your "Donation"
             data this will take a week
           </h4>
           {logged === false ? (
